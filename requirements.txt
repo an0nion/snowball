@@ -1,0 +1,12 @@
+numpy == 1.26.4
+pandas == 2.0.1
+plotly
+streamlit
+scikit-learn
+yfinance==0.2.44
+datetime
+prophet
+scipy
+matplotlib
+folium
+streamlit_folium
