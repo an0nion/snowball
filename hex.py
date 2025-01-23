@@ -25,7 +25,7 @@ def load_model():
 model = load_model()
 
 # Streamlit app title and description
-st.title("Find your credit score with :primaryColor[snowball]")
+st.title("Find your credit score with snowball")
 st.caption("Want to know what your American credit score would be? Feel free to\
          fiddle around with this model!")
 st.write("This machine learning model is trained off 10 key features regarding\
